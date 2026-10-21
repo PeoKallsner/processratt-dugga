@@ -1,9 +1,11 @@
 # Processrätt – Duggasimulator HT 2026
 
-Publicerad pilot med åtta originalfrågor: https://peokallsner.github.io/processratt-dugga/
+48 originalfrågor i sex fasta duggor: https://peokallsner.github.io/processratt-dugga/
 
-Frågorna är källkontrollerade av AI mot lagtext. Oberoende juristgranskning återstår.
+Till Chanel, med kärlek.
 
-Detta repository innehåller det färdigbyggda webbpaketet. React/TypeScript-källprojektet och granskningsunderlaget förvaltas separat i projektets lokala arbetsmapp. Inga kurs-PDF:er eller studenttentor ingår.
+Frågorna är AI-källkontrollerade mot lagtext; oberoende juristgranskning återstår. Alla 14 seminarieteman har viss täckning, inte fullständig täckning.
 
-Byggkontroll och 43 automatiserade tester godkända 2026-10-21. Publicering: GitHub Pages från main, rotkatalogen.
+Repositoryt innehåller det färdigbyggda webbpaketet. Källprojekt och granskningsunderlag förvaltas lokalt. Inga kurs-PDF:er eller studenttentor ingår.
+
+47 automatiserade tester godkända. Publicering från main, rotkatalogen.
